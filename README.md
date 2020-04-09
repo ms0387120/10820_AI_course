@@ -102,6 +102,10 @@
 
 * **Final Model Version is fine-tuned via advanced CNN models, ensemble learning, and data augmentation by GAN.**
 
+  - Select the best model
+
+![](https://i.imgur.com/aMRhRCM.png)
+
 
 ---
 ## Demo
