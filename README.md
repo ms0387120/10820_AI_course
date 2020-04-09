@@ -18,6 +18,48 @@
 
     - [Checklist](https://paper.dropbox.com/doc/practice-of-final-project--AxvG4ZHbneVrAU0O2yZq~zqtAQ-2GNV5YSCyFXTJA96Q7PUS)
     
-## 2. OOO
+## 2. Template Model
 
+* Data preprocessing
+  
+  - Image
+    - Convert image to array, the data type is float32.
+    
+  - Label
+    - First, convert label \[A,B,C\] to \[0,1,2\].
+    - Second, use one-hot encoding to encode converted label, the data type is float32.
+    
+  - Mapping converted image and label.
+  - Generate .npz file, and upload it to google drive.
+    - .npz file is the dataset that will be used to train, evaluate and predict. 
+  
+  - **Notice**
+    - TA run it at localhost.
+    - If you want to run it at colab, you need mount the google drive and modify the file path in the code.
+  
+  - **You can use your own way to preprocess these data.**
 
+* Template model
+
+  - There are three template models:
+    - DenseNet-121
+    - ResNeXt-50
+    - VGG16
+    
+  - Some of these models' layers are trainable.
+  - These models all can be built by importing Keras packages.
+  - These models all can be run at colab.
+  - Step by step: 
+    - I. Create model
+    - II. Load Training dataset
+    - III. Train model by trainig dataset
+    - IV. Save best model and weights
+    - V. Draw learning curves
+    - VI. Load best model and weights
+    - VII. Load Dev dataset
+    - VII. Evaluate and predict by dev dataset
+    - IX. Use confusion matrix to analyze the predict result
+   
+   - **You can use your own way to create model to get best result.**
+
+## 3. OOO
