@@ -118,6 +118,12 @@
 | Deadline for iLMS Team Formulation     | 5/10 (Sun)     |
 | Deadline for Competition Registeration | 5/15 (Fri)     |
 | Force Grouping by TAs due to drop out | 5/20 (Wed)     |
+| Competition - Upload Answer     | 6/12 (Fri)     |
+| Deadline for Competition - Upload Answer    | 6/16 (Tue)     |
 | Demo     | 6/17 (Wed)     |
 | Presentation     | 6/19 (Fri)、24 (Wed)     |
+| Competition - Announce Preliminary Result     | 6/24 (Wed)     |
 | Summer Vacation Starts     | 6/29 (Mon)     |
+
+
+---
