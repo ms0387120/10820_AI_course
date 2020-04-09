@@ -99,10 +99,22 @@
     - DCGAN
     - Conditional GAN
     - etc.
-    
+
+* **Final Model Version is fine-tuned via advanced CNN models, ensemble learning, and data augmentation by GAN.**
+
+
 ---
 ## Demo
 * TA need to do
 
   - **Train GAN to generate pictures that students don't have in their dataset (Training set & Dev set)**
 
+
+---
+## Schedule
+
+| Event | Date |
+| :--------: | :--------: |
+| Demo     | 6/17 (Wed)     |
+| Presentation     | 6/19 (Fri)、24 (Wed)     |
+| Summer Vacation Starts     | 6/29 (Mon)     |
