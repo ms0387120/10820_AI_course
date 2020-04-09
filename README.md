@@ -115,6 +115,9 @@
 
 | Event | Date |
 | :--------: | :--------: |
+| Deadline for iLMS Team Formulation     | 5/10 (Sun)     |
+| Deadline for Competition Registeration | 5/15 (Fri)     |
+| Force Grouping by TAs due to drop out | 5/20 (Wed)     |
 | Demo     | 6/17 (Wed)     |
 | Presentation     | 6/19 (Fri)、24 (Wed)     |
 | Summer Vacation Starts     | 6/29 (Mon)     |
